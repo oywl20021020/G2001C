@@ -1,6 +1,7 @@
-public class OrderDao{
+ipublic class OrderDao{
   public Integer addOrder(Integer a,Integer b){
-	Integer c = a+b;
-	return c;
+	//Integer c = a+b;
+	  Integer c =a+a+b;
+	  return c;
   }
 }
